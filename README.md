@@ -2,8 +2,8 @@
 
 Simple Express-based REST API to manage Indian state data (population, literacy rate, annual budget, GDP, etc.).
 
-- **Backend deploy link**: `https://node-assignment-3-cmj0.onrender.com`
-- **Local base URL**: `http://localhost:3000`
+- **Backend deploy link**: [https://node-assignment-3-cmj0.onrender.com](https://node-assignment-3-cmj0.onrender.com)
+- **Local base URL**: [http://localhost:3000](http://localhost:3000)
 
 ---
 
